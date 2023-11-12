@@ -23,10 +23,10 @@
 ```  
  📨 Social
  
-  Discord: @rdmoiscoding
+  Discord:  discord.com/users/1172523055638122524
   Telegram: t.me/@rdmo112
   
-   $35.00 USD | lifetime access
+   $35.00 USD | lietime access
    $20.00 USD | 1 month  access
    $15.00 USD | 1 week   access
 
