@@ -23,7 +23,7 @@
 ```  
  📨 Social
  
-  Discord:  discord.com/users/1172523055638122524
+  Discord:  rdmoiscoding
   Telegram: t.me/@rdmo112
   
    $35.00 USD | lietime access
