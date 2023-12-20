@@ -20,7 +20,8 @@
 
 <p align="center">
 
-```  
+```
+: December 17 2023
  📨 Social
  
   Discord:  rdmoiscoding
@@ -37,7 +38,9 @@
    ➜ Only the buyer can access the download link
    ➜ Do not install cracked version or buy from different person
          
- 
+
+📅 This item is still available as of December 20th, 2023.
+
 ```
 </p>
 
