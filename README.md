@@ -21,7 +21,6 @@
 <p align="center">
 
 ```
-: December 17 2023
  📨 Social
  
   Discord:  rdmoiscoding
