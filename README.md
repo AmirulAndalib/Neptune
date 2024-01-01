@@ -38,7 +38,7 @@
    ➜ Do not install cracked version or buy from different person
          
 
-📅 This item is still available as of December 20th, 2023.
+📅 This item is still obtainable as of January 1st, 2024.
 
 ```
 </p>
