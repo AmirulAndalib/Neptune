@@ -1,4 +1,4 @@
-TUTORIAL ON HOW TO SETUP NEPTUNE
+TUTORIAL ON HOW TO SETUP NEPTUNE.
 
 1. Delete previous python & Install latest python ( https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe )
 2. Make sure you Add Python to path. example ( 
