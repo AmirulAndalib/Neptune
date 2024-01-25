@@ -26,7 +26,7 @@
   Discord:  rdmoiscoding
   Telegram: t.me/@rdmo112
   
-   $35.00 USD | lietime access
+   $35.00 USD | lifetime access
    $20.00 USD | 1 month access
    $15.00 USD | 1 week  access
 
