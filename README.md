@@ -39,7 +39,7 @@
 
          
 
-📅 This item is still obtainable as of January 1st, 2024.
+📅 This item is still obtainable as of February 1st, 2024.
 
 ```
 </p>
