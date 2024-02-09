@@ -23,7 +23,7 @@
 ```
  📨 Social
  
-  Discord:  rdmoiscoding
+  Discord:  disabled
   Telegram: t.me/@rdmo112
   
    $35.00 USD | lifetime access
