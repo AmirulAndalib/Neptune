@@ -24,7 +24,7 @@
  📨 Social
  
   Discord:  @rdmo112
-  Telegram: t.me/@rdmo112
+  Telegram: t.me/@rdmo12
   
    $35.00 USD | lifetime access
    $20.00 USD | 1 month access
