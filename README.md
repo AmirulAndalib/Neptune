@@ -26,9 +26,10 @@
   Discord:  rdmo13
   Telegram: t.me/@rdmo12
   
-   $35.00 USD | lifetime access
-   $20.00 USD | 1 month access
-   $15.00 USD | 1 week  access
+   $55.00 USD | lifetime access
+   $35.00 USD | 6 months access
+   $25.00 USD | 2 weeks  access
+   $15.00 USD | 1 day  access
 
 
 🔍 Information
