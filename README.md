@@ -27,9 +27,9 @@
   Telegram: t.me/@rdmo12
   
    $55.00 USD | lifetime access
-   $35.00 USD | 6 months access
-   $25.00 USD | 2 weeks  access
-   $15.00 USD | 1 day  access
+   $35.00 USD | 2 months access
+   $25.00 USD | 1 month  access
+   $15.00 USD | 1 week  access
 
 
 🔍 Information
@@ -47,8 +47,9 @@
 
 ## Payment Methods <img src="https://cdn3.emoji.gg/emojis/5388-payment-mobile.png" width="20px"/>
 
-<img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="30px"/>    <img src="https://cdn3.emoji.gg/emojis/5327-cashapp.png" width="30px"/>     <img src="https://cdn3.emoji.gg/emojis/2625-crypto.png" width="30px"/>
-   Customer Feedback:
+<img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="30px"/>    <img src="https://cdn3.emoji.gg/emojis/5327-cashapp.png" width="30px"/>     <img src="https://cdn3.emoji.gg/emojis/2625-crypto.png" width="30px"/>  <img src="https://tse1.mm.bing.net/th?id=OIP.N1a59UuLl_vnWBqOjoHGOQHaHa&pid=Api" width="30px"/>
+   
+Customer Feedback:
    https://t.me/rdmovouch <img src="https://cdn3.emoji.gg/emojis/9739-telegram.png" width="25px"/>
 
 
