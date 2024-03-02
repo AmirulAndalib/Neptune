@@ -50,7 +50,7 @@
 <img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="30px"/>    <img src="https://cdn3.emoji.gg/emojis/3712-bitcoin.png" width="30px"/>     <img src="https://cdn3.emoji.gg/emojis/4887-ltc.png" width="30px"/>     <img src="https://cdn3.emoji.gg/emojis/5819-eth.png" width="30px"/>    <img src="https://cdn3.emoji.gg/emojis/7541-tether-usdt.png" width="30px"/>
 
    Customer Feedback:
-   https://t.me/rdmovouch <img src="https://cdn3.emoji.gg/emojis/9739-telegram.png" width="20px"/>
+   https://t.me/rdmovouch <img src="https://cdn3.emoji.gg/emojis/9739-telegram.png" width="25px"/>
 
 
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
