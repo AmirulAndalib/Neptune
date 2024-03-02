@@ -46,7 +46,7 @@
 
 ## Payment Option <img src="https://cdn3.emoji.gg/emojis/9852-takemymoney.gif" width="30px"/>
 
-<img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="20px"/>    <img src="https://cdn3.emoji.gg/emojis/3712-bitcoin.png" width="20px"/>     <img src="https://cdn3.emoji.gg/emojis/4887-ltc.png" width="20px"/>     <img src="https://cdn3.emoji.gg/emojis/5819-eth.png" width="20px"/>    <img src="https://cdn3.emoji.gg/emojis/7541-tether-usdt.png" width="20px"/>
+<img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="30px"/>    <img src="https://cdn3.emoji.gg/emojis/3712-bitcoin.png" width="30px"/>     <img src="https://cdn3.emoji.gg/emojis/4887-ltc.png" width="30px"/>     <img src="https://cdn3.emoji.gg/emojis/5819-eth.png" width="30px"/>    <img src="https://cdn3.emoji.gg/emojis/7541-tether-usdt.png" width="30px"/>
 
    Customer Feedback:
    https://t.me/rdmovouch <img src="https://cdn3.emoji.gg/emojis/9739-telegram.png" width="20px"/>
